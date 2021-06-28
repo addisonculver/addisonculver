@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @addisonculver
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning about white hat hacking
+- 💞️ I’m looking to collaborate on viruses and malware for educational purposes 
+- 📫 How to reach me ac#5843 discord
